@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root{
+    --maincolor:#FB2E82;
+    
+}
+.container{
+    display: flex;
+    width: calc(100% - 300px);
+    margin: auto;
+    
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+   
+
+
